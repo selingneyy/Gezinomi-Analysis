@@ -1,0 +1,1 @@
+In this analysis, Gezinomi wants to create new level-based sales definitions by using some characteristics of the sales it has made, and create segments according to these new sales definitions and estimate how much new customers can earn the company on average according to these segments.
